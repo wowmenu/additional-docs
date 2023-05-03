@@ -35,7 +35,7 @@ WowMenu is licensed under the MIT License. See LICENSE for more information.
 
 
 # Links
-## [About](/about.md)
-## [Privacy Policy](/policy/privacypolicy.md)
-## [User Policy](/policy/userpolicy.md)
-## [Terms & Conditions](/policy/terms%26conditions.md)
+## [About](./about.md)
+## [Privacy Policy](./policy/privacypolicy.md)
+## [User Policy](./policy/userpolicy.md)
+## [Terms & Conditions](./policy/terms%26conditions.md)
