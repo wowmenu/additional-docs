@@ -40,3 +40,4 @@ WowMenu is licensed under the MIT License. See LICENSE for more information.
 ## [User Policy](./policy/userpolicy.md)
 ## [Terms & Conditions](./policy/terms_and_conditions.md)
 ## [App Terms & Conditions Sheet](./policy/terms_and_conditions-app.md)
+## [Software Documentation](./sw_details/sw_implementation.md)
